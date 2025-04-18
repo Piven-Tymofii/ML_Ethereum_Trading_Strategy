@@ -1,0 +1,26 @@
+# Ignore secrets
+*.env
+
+# Ignore OS/filesystem stuff
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore datasets and png files
+*.csv
+*.png
+
+# Ignore model files
+*.pkl
+*.skops
+*.joblib
+
+# VSCode/project config
+.vscode/
+*.code-workspace
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Render log/temp files (if any)
+*.log

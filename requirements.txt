@@ -1,0 +1,10 @@
+APScheduler==3.11.0
+numpy==1.23.5
+skops==0.11.0
+pandas==2.2.3
+python-telegram-bot==22.0
+pytz==2024.1
+requests==2.32.3
+lightgbm==4.6.0
+scikit-learn==1.6.1
+huggingface-hub==0.30.2
