@@ -6,9 +6,8 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# Ignore datasets and png files
+# Ignore datasets
 *.csv
-*.png
 
 # Ignore model files
 *.pkl
