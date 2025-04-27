@@ -8,3 +8,4 @@ requests==2.32.3
 lightgbm==4.6.0
 scikit-learn==1.6.1
 huggingface-hub==0.30.2
+azure-storage-blob==12.25.1
